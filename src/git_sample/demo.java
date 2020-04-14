@@ -7,11 +7,11 @@ public class demo {
 		System.out.println("I am learning git today");
 		System.out.println("I am learning git in the TekArch");
 		System.out.println("java sessions are completed");
-<<<<<<< HEAD
-	    System.out.println("I am on srihan branch");
-=======
+	    System.out.println("I am on srihan branch"); 
+	    //as i faced conflict i given a chance to user to correct her self
+	    //i am keeping below statements after merge
 		System.out.println("I am making changes in chintu branch");
 		System.out.println("I am on chintu branch");
->>>>>>> chintu
+
 		}
 }
