@@ -12,6 +12,6 @@ public class demo {
 	    //i am keeping below statements after merge
 		System.out.println("I am making changes in chintu branch");
 		System.out.println("I am on chintu branch");
-
+       System.out.println("adding new line in chintu branch");
 		}
 }
